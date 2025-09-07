@@ -67,7 +67,7 @@ body {
 /* Hero đẹp hơn */
 .hero {
     position: relative;
-    background: url('images/nen.jpg') no-repeat center center/cover;
+    background: url('infomationclub/images/nen.jpg') no-repeat center center/cover;
     height: 70vh;
     display: flex;
     justify-content: center;
